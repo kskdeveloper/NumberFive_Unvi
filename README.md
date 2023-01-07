@@ -2,7 +2,12 @@
 Spring Boot 학사 관리 프로그램
 
 ## 🖋 프로젝트 소개
-대학교 포털(학생정보시스템)을 참고하여 만든 학사관리 프로그램입니다. 
+대학교 포털(학생정보시스템)을 참고하여 만든 학사관리 프로그램입니다.
+
+## 🖋 프로젝트 목적 
+- 실제 학사 관리 시스템을 기반으로 가상의 학사 홈페이지를 제작
+- 국비 훈련 과정에서 배운 탄탄한 기본기와 다양한 CRUD 기능 학습 경험을 바탕으로 신기술을 찾아 접목.
+- 프로젝트 내구성을 향상 및 재사용성 고려하여 제작 
 
 ### 📅 개발 기간 
 * 22.10.26 - 22.12.09
@@ -13,11 +18,9 @@ Spring Boot 학사 관리 프로그램
 |<a href="https://github.com/lmmil22">신지아</a>|<a href="https://github.com/AmVinch">이유빈</a>| <a href="https://github.com/kskdeveloper">권수경</a>
 
 
-
 ## 📌 커밋 메시지
 * 개발한 기술 -본인 이름 형식
 ![커밋 메시지](https://user-images.githubusercontent.com/116548583/207213747-99c249db-4264-4c5c-a312-9f190cff80a3.png)
-
 
 
 ### ⚙ 사용 기술
@@ -84,8 +87,10 @@ Spring Boot 학사 관리 프로그램
 
 
 
-## 📸 ScreenShot
+## 📸 담당파트 영상보기
+[![Video Label](http://img.youtube.com/vi/DOrw-ASF4Ug/0.jpg)](https://youtu.be/DOrw-ASF4Ug)
 
+## 🛠 담당 파트
 
 <details>
 <summary>로그인</summary>
